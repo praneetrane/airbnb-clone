@@ -18,7 +18,7 @@ export default function Home({ exploreData, cardsData }) {
       <Header />
       {/* Banner */}
       <Banner />
-      <main className="max-w-7xl mx-auto px-8 sm:px-16">
+      <main className="max-w-max mx-auto px-8 sm:px-16">
         <section className="pt-6">
           <h2 className="text-4xl font-semibold pb-5">Explore Nearby</h2>
 
